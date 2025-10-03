@@ -31,6 +31,9 @@ Please feel free to explore my work — each project reflects my dedication to t
 <hr/>
 
 ## 🤳 Connect With Me
+
+[<img align="left" alt="christianazuero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [linkedin](https://linkedin.com/in/christianazuero)
 
 <!--
