@@ -9,7 +9,7 @@ Please feel free to explore my work — each project reflects my dedication to t
 ## 🚨 Threat Hunting & SOC Projects
 
 - **[Threat Hunting Lab – Detecting Suspicious Tor Browser Usage](https://github.com/yourgithub/threat-hunting-tor)**  
-- **[Incident Response Simulation (HTB CDSA Practice)](https://github.com/yourgithub/incident-response-simulation)**  
+- **[So You Want to Be a SOC Analyst Reloaded? (Part 1)]([https://github.com/yourgithub/incident-response-simulation](https://medium.com/@cristhianfazuero/so-you-want-to-be-a-soc-analyst-reloaded-part-1-18ca16feeec7))**  
 ---
 ## ⚠️ Vulnerability Management
 
