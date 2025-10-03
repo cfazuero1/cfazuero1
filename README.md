@@ -6,25 +6,20 @@ I enjoy building hands-on labs, conducting investigations, and creating projects
 Please feel free to explore my work — each project reflects my dedication to threat detection, compliance, and defensive security.
 
 ---
-
-## ⚠️ Vulnerability Management & Compliance
-
-- **[Firewall Audit & Compliance Review (ISO 27001 / VGCCC)](https://github.com/yourgithub/firewall-audit-compliance)**  
-- **[Vulnerability Management Automation (Python / PowerShell)](https://github.com/yourgithub/vulnerability-management-automation)**  
-
----
-
 ## 🚨 Threat Hunting & SOC Projects
 
 - **[Threat Hunting Lab – Detecting Suspicious Tor Browser Usage](https://github.com/yourgithub/threat-hunting-tor)**  
 - **[Incident Response Simulation (HTB CDSA Practice)](https://github.com/yourgithub/incident-response-simulation)**  
+---
+## ⚠️ Vulnerability Management
+
+Pending
 
 ---
 
 ## 🛡️ Governance, Risk & Security Frameworks
 
-- **[ISO 27001 Internal Audit Toolkit](https://github.com/yourgithub/iso27001-audit-toolkit)**  
-- **[NIST CSF Maturity Self-Assessment Lab](https://github.com/yourgithub/nist-csf-lab)**  
+Pending  
 
 ---
 
