@@ -34,7 +34,7 @@ Please feel free to explore my work — each project reflects my dedication to t
 
 [<img align="left" alt="christianazuero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin](https://linkedin.com/in/christianazuero)
+[linkedin]: https://linkedin.com/in/christianazuero
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
