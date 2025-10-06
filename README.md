@@ -13,6 +13,11 @@ Please feel free to explore my work — each project reflects my dedication to t
 
 - **[How to write a professional incident-response report: a practical guide from a CTF case study](https://medium.com/@cristhianfazuero/how-to-write-a-professional-incident-response-report-a-practical-guide-from-a-ctf-case-study-7baae3e8bf5e)** 
 ---
+## ⚠️ Project
+
+In the world of cybersecurity, two experiences stand out as adrenaline-pumping and mind-bending: Capture the Flag competitions (CTFs) and Escape Rooms. What if you could combine both into a single immersive platform? That’s exactly what I set out to build with hackerescaperoom.com a gamified space where the cyber community can test their skills, solve puzzles, and race against time.
+- **[Hacker Escape Room](https://www.hackerescaperoom.online/)** 
+---
 ## ⚠️ Vulnerability Management
 
 Pending
