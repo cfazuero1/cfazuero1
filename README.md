@@ -11,7 +11,9 @@ Please feel free to explore my work — each project reflects my dedication to t
 - **[Threat Hunting Lab – Detecting Suspicious Tor Browser Usage](https://github.com/cfazuero1/Threat-Hunting-Project)**  
 - **[So You Want to Be a SOC Analyst Reloaded? (Part 1)](https://medium.com/@cristhianfazuero/so-you-want-to-be-a-soc-analyst-reloaded-part-1-18ca16feeec7)**
 
-- **[How to write a professional incident-response report: a practical guide from a CTF case study](https://medium.com/@cristhianfazuero/how-to-write-a-professional-incident-response-report-a-practical-guide-from-a-ctf-case-study-7baae3e8bf5e)** 
+- **[How to write a professional incident-response report: a practical guide from a CTF case study](https://medium.com/@cristhianfazuero/how-to-write-a-professional-incident-response-report-a-practical-guide-from-a-ctf-case-study-7baae3e8bf5e)**
+- **[Network Activity Spike – SOCRadar Threat Intelligence Correlation](https://github.com/cfazuero1/Network-Activity-Spike)**
+
 ---
 ## ⚠️ Project
 
