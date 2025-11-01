@@ -22,7 +22,7 @@ In the world of cybersecurity, two experiences stand out as adrenaline-pumping a
 ---
 ## ⚠️ Vulnerability Management
 
-**[Vulnerability Management Program](https://github.com/cfazuero1/vulnerability-management-program)
+- **[Vulnerability Management Program](https://github.com/cfazuero1/vulnerability-management-program)**
 
 ---
 
