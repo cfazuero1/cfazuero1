@@ -30,6 +30,11 @@ In the world of cybersecurity, two experiences stand out as adrenaline-pumping a
 - **[OT Railway SOC Project](https://github.com/cfazuero1/OT-Security-Lab)**
 
 ---
+## ⚠️ AI
+
+- **[Agentic AI](https://github.com/cfazuero1/agentic-ai)**
+
+---
 
 ## 🛡️ Governance, Risk & Security Frameworks
 
