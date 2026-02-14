@@ -25,7 +25,7 @@ In the world of cybersecurity, two experiences stand out as adrenaline-pumping a
 - **[Vulnerability Management Program](https://github.com/cfazuero1/vulnerability-management-program)**
 
 ---
-## ⚠️ Vulnerability Management
+## ⚠️ OT
 
 - **[OT Railway SOC Project](https://github.com/cfazuero1/OT-Security-Lab)**
 
