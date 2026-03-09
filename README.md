@@ -8,6 +8,7 @@ Please feel free to explore my work — each project reflects my dedication to t
 ---
 ## 🚨 Threat Hunting & SOC Projects
 
+- **[Security Telemetry Optimization Lab: Reducing Falcon NG-SIEM Ingestion Costs with Cribl Stream](https://github.com/cfazuero1/Cribl-and-Falcon-NG-SIEM)**  
 - **[Threat Hunting Lab – Detecting Suspicious Tor Browser Usage](https://github.com/cfazuero1/Threat-Hunting-Project)**  
 - **[So You Want to Be a SOC Analyst Reloaded? (Part 1)](https://medium.com/@cristhianfazuero/so-you-want-to-be-a-soc-analyst-reloaded-part-1-18ca16feeec7)**
 
