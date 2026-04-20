@@ -36,6 +36,7 @@ In the world of cybersecurity, two experiences stand out as adrenaline-pumping a
 ## ⚠️ AI
 
 - **[Agentic AI](https://github.com/cfazuero1/agentic-ai)**
+- **[Agentic AI Bug Hunter](https://github.com/cfazuero1/Hocaido-Bug-Hunter)**
 - **[Charlotte-AI-Threat-Detection](https://github.com/cfazuero1/Charlotte-AI-Threat-Detection)**
 ---
 
